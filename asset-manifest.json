@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/updated_profile_3/static/css/main.d1b05096.chunk.css",
-    "main.js": "/updated_profile_3/static/js/main.e85cf411.chunk.js",
-    "main.js.map": "/updated_profile_3/static/js/main.e85cf411.chunk.js.map",
-    "runtime-main.js": "/updated_profile_3/static/js/runtime-main.5fccb858.js",
-    "runtime-main.js.map": "/updated_profile_3/static/js/runtime-main.5fccb858.js.map",
-    "static/js/2.a77ac4c3.chunk.js": "/updated_profile_3/static/js/2.a77ac4c3.chunk.js",
-    "static/js/2.a77ac4c3.chunk.js.map": "/updated_profile_3/static/js/2.a77ac4c3.chunk.js.map",
-    "index.html": "/updated_profile_3/index.html",
-    "precache-manifest.27929ee11277bd77e793014ba15846bb.js": "/updated_profile_3/precache-manifest.27929ee11277bd77e793014ba15846bb.js",
-    "service-worker.js": "/updated_profile_3/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/updated_profile_3/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.a77ac4c3.chunk.js.LICENSE.txt": "/updated_profile_3/static/js/2.a77ac4c3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/updated_profile_3/static/media/logo.5d5d9eef.svg"
+    "main.css": "/updated_potfolio_3/static/css/main.d1b05096.chunk.css",
+    "main.js": "/updated_potfolio_3/static/js/main.9faf8cce.chunk.js",
+    "main.js.map": "/updated_potfolio_3/static/js/main.9faf8cce.chunk.js.map",
+    "runtime-main.js": "/updated_potfolio_3/static/js/runtime-main.e8464b73.js",
+    "runtime-main.js.map": "/updated_potfolio_3/static/js/runtime-main.e8464b73.js.map",
+    "static/js/2.a77ac4c3.chunk.js": "/updated_potfolio_3/static/js/2.a77ac4c3.chunk.js",
+    "static/js/2.a77ac4c3.chunk.js.map": "/updated_potfolio_3/static/js/2.a77ac4c3.chunk.js.map",
+    "index.html": "/updated_potfolio_3/index.html",
+    "precache-manifest.d6b45895a208fda8542fab73e42895f2.js": "/updated_potfolio_3/precache-manifest.d6b45895a208fda8542fab73e42895f2.js",
+    "service-worker.js": "/updated_potfolio_3/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/updated_potfolio_3/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a77ac4c3.chunk.js.LICENSE.txt": "/updated_potfolio_3/static/js/2.a77ac4c3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/updated_potfolio_3/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5fccb858.js",
+    "static/js/runtime-main.e8464b73.js",
     "static/js/2.a77ac4c3.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e85cf411.chunk.js"
+    "static/js/main.9faf8cce.chunk.js"
   ]
 }
